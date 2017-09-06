@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_8448ffdbbfa68b0f6fa64ed218ec10285991a935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_e9ff525e8867f20ae2520b19e3704bf2f9b3f7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_592b6c9b96725be6755ad2e9852fad7e68b38699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_ffeb3119cd5e2fe7f24cab4db426f179a4b83444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_47524d29700052a2383f8df5c48683faa0014b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_d497b821579c0749b7771a19e2f91824efa1c23e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_6e44950fbee59ac081b5a4307dd1ee5faf35dd83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_8a1ffa9232e319b2184af353eb0d290968892cb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_1c18387d3c28799f19c562b6eadb38af12dba05c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_2048fa1ec1d4c5f32f181a2d38f2f16cb7a2094d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_d39cad676d89f37dfb271026ca8c5b7bd47b9d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_b8af61d658845b2737e56eae38eb03aa1e8e71c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/yilong/Downloads/SenseAR_v1.9.0_20170917/SenseAR_1.9.0_Android/samples/ThirdLibPractice/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_30b974aeee69e0165094818491324947a42c2eb3.jar" />
+    </item>
+
+</items>
