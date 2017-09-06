@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    compileSdkVersion rootProject.ext.android.compileSdkVersion
+    buildToolsVersion rootProject.ext.android.buildToolsVersion
     defaultConfig {
-        applicationId "zyl.thirdlibpractice"
-        minSdkVersion 15
-        targetSdkVersion 25
-        versionCode 1
-        versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        applicationId rootProject.ext.android.applicationId
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+        versionCode rootProject.ext.android.versionCode
+        versionName rootProject.ext.android.versionName
+        testInstrumentationRunner rootProject.ext.dependencies.testInstrumentationRunner
     }
     buildTypes {
         release {
@@ -20,11 +20,11 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
-        exclude group: 'com.android.support', module: 'support-annotations'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile(rootProject.ext.dependencies.androidTestCompile, {
+        exclude group: rootProject.ext.dependencies.excludeGroup, module: rootProject.ext.dependencies.excludeModule
     })
-    compile 'com.android.support:appcompat-v7:25.3.1'
-    compile 'com.android.support:design:25.3.1'
-    testCompile 'junit:junit:4.12'
+    compile rootProject.ext.dependencies.supportAppCompats
+    compile rootProject.ext.dependencies.supportDesign
+    testCompile rootProject.ext.dependencies.testCompile
 }
